@@ -1,1 +1,1 @@
-# static-page-
+# static-page-example
